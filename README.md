@@ -1,2 +1,2 @@
-# graylog-content-packs
-Some graylog content packs
+# GRIZZLY STEPPE – Russian Malicious Cyber Activity Stream
+https://www.us-cert.gov/security-publications/GRIZZLY-STEPPE-Russian-Malicious-Cyber-Activity
